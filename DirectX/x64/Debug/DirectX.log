@@ -1,0 +1,8 @@
+﻿  AppWindow.cpp
+  GraphicsEngine.cpp
+  main.cpp
+  SwapChain.cpp
+  VertexBuffer.cpp
+  VertexShader.cpp
+  Gerando Código...
+  DirectX.vcxproj -> C:\Users\artum\source\repos\DirectX\x64\Debug\DirectXEngine.exe
